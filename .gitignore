@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.eggs/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Data logs
+*.log
+
+data/*.log
+
+# CSV outputs
+*.csv
+!*/data/sample.csv
+
+# Editors
+.vscode/
+.idea/
+
+# Byte-compiled
+*.pyo
