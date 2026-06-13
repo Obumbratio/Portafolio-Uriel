@@ -73,7 +73,7 @@ projects.
 ## Contact & Links
 - Email: [uriel.castaneda2023@email.bakersfieldcollege.edu](mailto:uriel.castaneda2023@email.bakersfieldcollege.edu)
 - LinkedIn: [linkedin.com/in/uriel-castaneda](https://www.linkedin.com/in/uriel-castaneda)
-- GitHub: [github.com/UrielCastaneda](https://github.com/UrielCastaneda)
+- GitHub: [github.com/UrielCastaneda](https://github.com/Obumbratio)
 
 ## What's Next
 - Integrate pandas and matplotlib for richer analytics in reporting projects.
